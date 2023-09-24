@@ -2,7 +2,7 @@
 
 ## Overview
 
-For this lab you will create a complete API for a web application. You will start with the API provided. () `Test it completely, identify what needs to be completed, and go about getting it ready for production by finishing everything and testing all code.` The API will be used to create, read, update, and delete articles.  The articles will be stored in a database.  The API will be secured using a user key.  The user key will be used to determine if the user is an admin or a user.  The admin will be able to do anything a user can do, but a user will not be able to do everything an admin can do.
+For this lab you will create a complete API for a web application. You will start with the API provided. (https://github.com/blairDev/WebArticlesAPIStarter) `Test it completely, identify what needs to be completed, and go about getting it ready for production by finishing everything and testing all code.` The API will be used to create, read, update, and delete articles.  The articles will be stored in a database.  The API will be secured using a user key.  The user key will be used to determine if the user is an admin or a user.  The admin will be able to do anything a user can do, but a user will not be able to do everything an admin can do.
 
 ## Endpoints:
 
